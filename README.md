@@ -1,2 +1,2 @@
-# Generic-Tree-
+# Generic-Tree
 Level - 1
